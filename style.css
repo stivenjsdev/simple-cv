@@ -175,6 +175,7 @@ main {
   row-gap: 25px;
   flex-grow: 1;
   background-color: white;
+  border-bottom: 10px solid #257c97;
 }
 
 .exp-item {
